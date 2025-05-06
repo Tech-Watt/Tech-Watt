@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Felix Sam<br>Machine Learning and Computer Vision and Robotics Engineer. <br>I Help Companies and 4k+ People Build ML Pipelines, Generative AI,<br>and Computer Vision Applications.
+Hi 👋, I'm Felix Sam<br>Machine Learning and Computer Vision and Robotics Engineer. <br>I Help Companies and 7k+ People Build ML Pipelines, Generative AI,<br>and Computer Vision Applications.
 
 
 ## 🌐 Socials:
