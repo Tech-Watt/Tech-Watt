@@ -41,6 +41,7 @@ Hi 👋, I'm Felix Sam<br>Machine Learning and Computer Vision and Robotics Engi
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ### ☁️ Deployment  
+![Railway](https://img.shields.io/badge/railway-000000?style=for-the-badge&logo=railway&logoColor=white)  
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)  
 ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)  
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)  
