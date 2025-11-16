@@ -18,7 +18,7 @@ Hi 👋, I'm Felix Sam<br>AI / Machine Learning Engineer and Robotics Enthusiast
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
   ## 💰 You can help me by donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://www.patreon.com/TechWatt) 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/TechWatt?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
