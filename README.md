@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Felix Sam<br>AI / Machine Learning Engineer and Robotics Enthusiast. <br>I Help Companies and 10k+ People Build ML Pipelines, Generative AI,<br>and Computer Vision Applications and many more.
+Hi 👋, I'm Felix Sam, <br>AI / Machine Learning Engineer and Robotics Enthusiast. <br>I Help Companies and 10k+ People Build ML Pipelines, Generative AI,<br>and Computer Vision Applications and many more.
 
 
 ## 🌐 Socials:
@@ -14,8 +14,6 @@ Hi 👋, I'm Felix Sam<br>AI / Machine Learning Engineer and Robotics Enthusiast
 ### 🤖 AI, ML & Computer Vision
 ### 🔌 Hardware & IoT  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
   ## 💰 You can help me by donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/TechWatt?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) 
